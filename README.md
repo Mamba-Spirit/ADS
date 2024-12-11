@@ -1,2 +1,2 @@
 # ADS
-Advanced Data Structure basics functions.
+Advanced Data Structures basics functions.
